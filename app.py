@@ -85,7 +85,7 @@ def initialize_face_recognition():
     with recognizer_lock:
         if face_analysis_app is None:
             print("Initializing Face Analysis model...")
-            # Use CPUExecutionProvider if you don't have a compatible GPU
+            
             face_analysis_app = insightface.app.FaceAnalysis(name=MODEL_NAME, providers=['CUDAExecutionProvider'])
             face_analysis_app.prepare(ctx_id=0, det_size=(640, 640))
             print("Model loaded.")
