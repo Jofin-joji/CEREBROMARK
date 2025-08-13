@@ -11,7 +11,6 @@ INPUT_DATA_DIR = "NDB"
 OUTPUT_DB_DIR = "New_face_db"
 
 # 2. CHOOSE YOUR EXECUTION PROVIDER ('CPU' or 'CUDA')
-# Use 'CUDAExecutionProvider' if you have a compatible NVIDIA GPU and CUDA installed.
 # Otherwise, use 'CPUExecutionProvider'.
 PROVIDER ='CUDAExecutionProvider'
 
