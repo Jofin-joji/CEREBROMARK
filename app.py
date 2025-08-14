@@ -299,7 +299,7 @@ def stop_attendance_session():
     print(f"Present list for Period {current_period} saved to {present_filepath}")
 
     # --- 2. Calculate and Save ABSENT Students ---
-    # Get a set of all student IDs from the database
+   
     all_known_ids = {name_id for _, name_id in known_faces_db}
     absent_ids = all_known_ids - present_today
     
