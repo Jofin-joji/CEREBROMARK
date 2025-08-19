@@ -5,7 +5,7 @@ import insightface
 import warnings
 from tqdm import tqdm 
 
-# --- Configuration ---
+
 # 1. SET YOUR INPUT AND OUTPUT FOLDERS HERE
 INPUT_DATA_DIR = "NDB"
 OUTPUT_DB_DIR = "New_face_db"
