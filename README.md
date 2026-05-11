@@ -5,7 +5,7 @@ Cerebromark is an AI-powered attendance management system that leverages compute
 ## Demo & Output
 
 ### Video Walkthrough
-<video src="images/code4campus.mp4" controls width="100%"></video>
+![Video Walkthrough](images/code4campus.mp4)
 
 ### Interface Screenshots
 ![Attendance Output 1](images/Screenshot%202026-05-11%20210006.png)
