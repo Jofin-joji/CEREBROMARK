@@ -2,6 +2,16 @@
 
 Cerebromark is an AI-powered attendance management system that leverages computer vision to automate and streamline the process of tracking student presence. By integrating with Hikvision cameras, it provides real-time, accurate attendance data, eliminating the need for manual roll calls and reducing administrative overhead.
 
+## Demo & Output
+
+### Video Walkthrough
+<video src="images/code4campus.mp4" controls width="100%"></video>
+
+### Interface Screenshots
+![Attendance Output 1](images/Screenshot%202026-05-11%20210006.png)
+
+![Attendance Output 2](images/Screenshot%202026-05-11%20210042.png)
+
 ## About The Project
 
 This project is an AI-powered system for smart, real-time attendance tracking using advanced computer vision and automation.
